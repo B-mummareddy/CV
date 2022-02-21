@@ -3,8 +3,12 @@
 Research Associate <br>
 
 [Email](mailto:mummareddybhargavi@gmail.com) / [LinkedIn](https://www.linkedin.com/in/bhargavi-mummareddy) / [GitHub](https://github.com/B-mummareddy/)
-
-## 👩🏼‍💻 Technical Experience
+##  Education
+**Ph.D** Materials Science and Engineering <br>
+Youngstown State University - Youngstown, OH _(Aug 2017 - Aug 2021)_ <br>
+**B. Tech ** Mechanical Engineering<br>
+RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
+##  Technical Experience
 
 **Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
