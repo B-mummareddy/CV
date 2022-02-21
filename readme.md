@@ -4,7 +4,7 @@ Research Associate, Youngstown State University, Youngstown, OH <br>
 
 [Email](mailto:mummareddybhargavi@gmail.com) / [LinkedIn](https://www.linkedin.com/in/bhargavi-mummareddy) / [GitHub](https://github.com/B-mummareddy/)
 ##  Education
-**Ph.D**        Materials Science and Engineering <br>
+**Ph.D**________Materials Science and Engineering_<br>
 **_Thesis:_** [Additive Manufacturing Processes for High-Performance Ceramics: Manufacturing - Mechanical and Thermal property Relationship](https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=ysu1629131959379597) <br>
 **_Advisor:_** Dr. Pedro Cortes <br>
 Youngstown State University - Youngstown, OH _(Aug 2017 - Aug 2021)_ <br>
