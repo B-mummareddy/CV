@@ -7,12 +7,12 @@ Research Associate <br>
 **Ph.D** <br>
 Materials Science and Engineering <br>
 **_Thesis:_** [Additive Manufacturing Processes for High-Performance Ceramics: Manufacturing - Mechanical and Thermal property Relationship](https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=ysu1629131959379597) <br>
-**_Advisor:_**Dr. Pedro Cortes <br>
+**_Advisor:_** Dr. Pedro Cortes <br>
 Youngstown State University - Youngstown, OH _(Aug 2017 - Aug 2021)_ <br>
 **B. Tech** <br>
 Mechanical Engineering<br>
-**_Capstone Project:_**Microstructure, hardness, corrosion, and machining characteristics of fine grained AZ91 Mg alloy obtained by Friction Stir Processing <br>
-**_Advisor:_**Dr. B. Ratna Sunil<br>
+**_Capstone Project:_** Microstructure, hardness, corrosion, and machining characteristics of fine grained AZ91 Mg alloy obtained by Friction Stir Processing <br>
+**_Advisor:_** Dr. B. Ratna Sunil<br>
 RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 ##  Technical Experience
 
