@@ -15,7 +15,8 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 
 ##  Research Experience
 **[Research Associate](https://ysu.edu/directory/people/bhargavi-mummareddy)**  Youngstown State University _(Oct 2021 - Present)_ <br>
-  I serve as a research associate in the project designed to fabricate micro-electronics that suit high temperature applications. The project is deviced such that the micro-electronics are completely manufactured by 3D-printing techniques. My responsbilitites include designing files for fabricating ceramic substrates, investigate the print-ability of metallic inks for conductivity, aerosol jet printing, design .dxf files and g-codes for printing, and post-processing for final applications. I also worked on printing metallic inks on polymers used for wearable electronics <br> I also assist and train several graduate and undergraduate students for optical characterization, post-processing, additive manufacturing techniques.
+**_Advisor:_** Dr. Pedro Cortes, Dr. Eric MacDonald <br>
+  I serve as a research associate in the project designed to fabricate micro-electronics that suit high temperature applications. The project is deviced such that the micro-electronics are completely manufactured by 3D-printing techniques. My responsbilitites include designing files for fabricating ceramic substrates, investigate the print-ability of metallic inks for conductivity, aerosol jet printing, design .dxf files and g-codes for printing, and post-processing for final applications. I also worked on printing metallic inks on polymers used for wearable electronics. Participate in few colloboration projects for thermal analysis and aerosol jet printing.<br> I also assist and train several graduate and undergraduate students for optical characterization, post-processing, additive manufacturing techniques.
   - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement).
 <br><br>
 
