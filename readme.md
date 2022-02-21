@@ -1,6 +1,6 @@
 # Bhargavi Mummareddy
 
-Research Associate <br>
+Research Associate, Youngstown State University, Youngstown, OH <br>
 
 [Email](mailto:mummareddybhargavi@gmail.com) / [LinkedIn](https://www.linkedin.com/in/bhargavi-mummareddy) / [GitHub](https://github.com/B-mummareddy/)
 ##  Education
@@ -14,8 +14,8 @@ Mechanical Engineering<br>
 **_Capstone Project:_** Microstructure, hardness, corrosion, and machining characteristics of fine grained AZ91 Mg alloy obtained by Friction Stir Processing <br>
 **_Advisor:_** Dr. B. Ratna Sunil<br>
 RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
-##  Technical Experience
 
+##  Research Experience
 **Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
