@@ -6,7 +6,7 @@ Research Associate <br>
 ##  Education
 **Ph.D** <br>
 Materials Science and Engineering <br>
-**Thesis:**Additive Manufacturing Processes for High-Performance Ceramics: Manufacturing - Mechanical and Thermal property Relationship <br>
+** Thesis: ** Additive Manufacturing Processes for High-Performance Ceramics: Manufacturing - Mechanical and Thermal property Relationship <br>
 Youngstown State University - Youngstown, OH _(Aug 2017 - Aug 2021)_ <br>
 **B. Tech** <br>
 Mechanical Engineering<br>
