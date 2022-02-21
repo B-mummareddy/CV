@@ -4,9 +4,11 @@ Research Associate <br>
 
 [Email](mailto:mummareddybhargavi@gmail.com) / [LinkedIn](https://www.linkedin.com/in/bhargavi-mummareddy) / [GitHub](https://github.com/B-mummareddy/)
 ##  Education
-**Ph.D** Materials Science and Engineering <br>
+**Ph.D** <br>
+Materials Science and Engineering <br>
 Youngstown State University - Youngstown, OH _(Aug 2017 - Aug 2021)_ <br>
-**B. Tech ** Mechanical Engineering<br>
+**B. Tech** <br>
+Mechanical Engineering<br>
 RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 ##  Technical Experience
 
