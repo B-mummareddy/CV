@@ -45,45 +45,37 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 **Business Analyst** <br> Tech Mahindra _(Oct 2019 - Sep 2020)_ <br>
 - Selected in campus placements among a pool of 1041 students on a competitive basis.
 - Associate in Sysco Project working on gray market. Worked with SQL, shell scripting to clean, organize and analyze data. Beginner in Tableau.
-- Assisted in migrating production details from Teradata to MongoDB via Agile methodology. 
+- Assisted in migrating production details from Teradata to MongoDB via Agile methodology.<br>
 **_Technologies used:_** Mongo DB, SQL, shell scripting,Teradata.<br><br>
 
 **Undergrad Research Assistant** <br> RGU-IIIT, Nuzvid _(July 2015 - May 2016)_ <br>
-
 - Analyzed machining characteristics of fine grained AZ91 Mg alloy obtained by Friction Stir Processing (FSP).  
 - Studies microstructure, hardness and corrosion features of modified Mg alloy.
 - Compared the machining characteristics of fine grained AZ91 Mg alloy obtained by FSP. <br><br> 
 
 **Summer Intern** <br> Indian Institute of Sciences, Benguluru, India _(May 2015 - July 2015)_ <br>
-
 - Studied optical properties of Friction Stir Welded Aluminum sheets  
 - Fabricated a Metal Matrix Composite (MMC), Aluminum (AA2024) reinforced with Titanium dioxide nano particles using Taguchi Method.  
 - Compared Aluminum samples with and without Titanium dioxide that were welded.<br><br>
 
 **Project Assistant** <br> RGU-IIIT, Nuzvid, India _(Jan 2013 - Mar 2013)_ <br>
-
 - Worked on building an outer space settlement shuttle that supports permanent life settlement on outer space. 
 - Awarded with an Honorable Mention and Student Achievement Award at NASA Ames Research Center.  <br><br>
     
 ## Leadership Experience
-<br><br>
+<br>
 **Reviewer** <br> Additive Manufacturing Journal <br>
-- Act as a peer reviewer for journal articles.
-<br><br>
+- Act as a peer reviewer for journal articles.<br><br>
 **Judge** <br> Quest _(August 2021)_ <br>
-- Evaluated oral presentations of grad and undergrad students for financial aid.
-<br><br>
+- Evaluated oral presentations of grad and undergrad students for financial aid.<br><br>
 **Outreach Co-ordinator** <br> Student Activities Major Events _(July 2018 - Sept 2019)_ <br>
 - Planned and organized events for Homecoming and Welcome week for the fall and spring semesters.
-- Managed and contacted several local businesses for securing funds for Welcome Week and homecoming for Fall semesters.
-<br><br>
+- Managed and contacted several local businesses for securing funds for Welcome Week and homecoming for Fall semesters.<br><br>
 **Techfest Co-ordinator** <br> Student Activities Club _(May 2014 - May 2016)_ <br>
 - Organized several events for juniors, sophomores for public speaking, Just-a-minute sessions.
 - Responsible for convening a technical fest featuring career development, academic competitions, extra-curricular events on campus for a two-day event.
-- Secured funds for conducting the two-day technical fest.
-<br><br>
-**National Cadet Corp** <br> (May 2012 - Jan 2015)_ <br>
-<br><br>
+- Secured funds for conducting the two-day technical fest.<br><br>
+**National Cadet Corp** <br> (May 2012 - Jan 2015)_ <br><br>
 
 **Freelance Writing** _(Mar 2020 - Present)_ <br>
 Recent articles in [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/), [Sex for Every Body](https://sexforeverybody.com/author/carolyn/), [FAWCO's Inspiring Women Magazine](https://workwithcarolyn.com/words/fawco-feature), and more.
