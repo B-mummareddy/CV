@@ -107,7 +107,7 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 5.	B. Mummareddy et al., “The fracture properties of metal‐ceramic composites manufactured via stereolithography”,  Int. J. Appl. Ceram. Technol., vol. 17, no. 2, pp. 413–423, Mar. 2020, [doi: 10.1111/ijac.13432](https://ceramics.onlinelibrary.wiley.com/doi/full/10.1111/ijac.13432?af=R).
 6.	Y. Oh et al., “Microwave dielectric properties of zirconia fabricated using NanoParticle JettingTM”,  Addit. Manuf., vol. 27, pp. 586–594, May 2019, [doi: 10.1016/j.addma.2019.04.005](https://www.sciencedirect.com/science/article/pii/S2214860419301265).
 7.	G. V. V. SURYA KIRAN et al., “Machining characteristics of fine grained AZ91 Mg alloy processed by friction stir processing”,  Trans. Nonferrous Met. Soc. China (English Ed., vol. 27, no. 4, 2017, [doi: 10.1016/S1003-6326(17)60092-X](https://www.sciencedirect.com/science/article/pii/S100363261760092X).
-8.	G. V. V. S. Kiran et al., “Microstructure and Corrosion Behaviour of Friction Stir Processed AZ91 Mg Alloy,” Int. J. Eng. Res., vol. 5, no. SP 2, pp. 449–452, Feb. 2016, Available: http://52.172.152.24/index.php/IJER/article/view/159285.
+8.	G. V. V. S. Kiran et al., “Microstructure and Corrosion Behaviour of Friction Stir Processed AZ91 Mg Alloy,” Int. J. Eng. Res., vol. 5, no. SP 2, pp. 449–452, Feb. 2016, Available: http://52.172.152.24/index.php/IJER/article/view/159285.<br>
 In Progress:
 9.	B.Mummareddy et al., “Development of Multi-functional 3D printed Ceramic Structures”. 
 10.	B.Mummareddy et al., “Effect of binder addition on density and mechanical strength of Fused Silica (SiO2) in Binder Jetting Printing (BJP)”, (submitted to 3D Printing and Additive Manufacturing).
