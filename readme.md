@@ -110,6 +110,7 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 8.	G. V. V. S. Kiran et al., “Microstructure and Corrosion Behaviour of Friction Stir Processed AZ91 Mg Alloy,” Int. J. Eng. Res., vol. 5, no. SP 2, pp. 449–452, Feb. 2016, Available: http://52.172.152.24/index.php/IJER/article/view/159285.<br>
 
 **_In Progress:_**
+
 9.	B.Mummareddy et al., “Development of Multi-functional 3D printed Ceramic Structures”. 
 10.	B.Mummareddy et al., “Effect of binder addition on density and mechanical strength of Fused Silica (SiO2) in Binder Jetting Printing (BJP)”, (submitted to 3D Printing and Additive Manufacturing).
 11.	B.Mummareddy et al., “Highly conductive Electronics Circuits for High-Temperature 3D printed ceramic based applications”.
