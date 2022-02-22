@@ -17,11 +17,9 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 ##  Research Experience
 **[Research Associate](https://ysu.edu/directory/people/bhargavi-mummareddy)**  <br> Youngstown State University _(Oct 2021 - Present)_ <br>
 **_Advisor:_** Dr. Pedro Cortes, Dr. Eric MacDonald <br>
-  
   I serve as a research associate in the project designed to fabricate micro-electronics that suit high temperature applications. The project is deviced such that the micro-electronics are completely manufactured by 3D-printing techniques. My responsbilitites include designing files for fabricating ceramic substrates, investigate the print-ability of metallic inks for conductivity, aerosol jet printing, design .dxf files and g-codes for printing, and post-processing for final applications. I also worked on printing metallic inks on polymers used for wearable electronics. Participate in few colloboration projects for thermal analysis and aerosol jet printing.<br> I also assist and train several graduate and undergraduate students for optical characterization, post-processing, additive manufacturing techniques.<br><br>
 
 **Graduate Research Assistant** <br> Youngstown State University _(Aug 2017 - Aug 2021)_ <br>
-  
   Worked on **_Characterization of Ceramics built via Additive Manufacturing (AM)_**. Studied post-processing and characterization of ceramics, metals, and polymers as a part of research and colloboration projects. Trained several graduate and under-grad students for vaious projects on AM, SEM, EDS techniques along with mechancial characterization techniques.
 - Ceramics
   - Designed and printed bulk and lattice, gyroid structures from a commercial Silica resin via StereoLithography (SLA) technique.
@@ -42,10 +40,9 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
   - Studied rheological properties of recycled Nylon, PEEK samples via TGA, DMTA analysis.
   - Optically analyzed the PEEK, PEKK, CF-PEEK built via Fused Filament Fabrication (FFF) and recycled Nylon 12 samples built via HP - MJF printing.
  <br>
-**_3D printing Systems used: _** ExOne M-flex, Innovent +, Formlabs Form 2, XJet, Hyrel 3D, Ultimaker<br><br>
+**_3D printing Systems used:_** ExOne M-flex, Innovent +, Formlabs Form 2, XJet, Hyrel 3D, Ultimaker<br><br>
 
 **Business Analyst** <br> Tech Mahindra _(Oct 2019 - Sep 2020)_ <br>
-
 - Selected in campus placements among a pool of 1041 students on a competitive basis.
 - Associate in Sysco Project working on gray market. Worked with SQL, shell scripting to clean, organize and analyze data. Beginner in Tableau.
 - Assisted in migrating production details from Teradata to MongoDB via Agile methodology. 
