@@ -63,17 +63,17 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
     
 ## Leadership Experience
 **Reviewer** <br> Additive Manufacturing Journal <br>
-- Act as a peer reviewer for journal articles.<br><br>
+- Act as a peer reviewer for journal articles.<br>
 **Judge** <br> Quest _(August 2021)_ <br>
-- Evaluated oral presentations of grad and undergrad students for financial aid.<br><br>
+- Evaluated oral presentations of grad and undergrad students for financial aid.<br>
 **Outreach Co-ordinator** <br> Student Activities Major Events _(July 2018 - Sept 2019)_ <br>
 - Planned and organized events for Homecoming and Welcome week for the fall and spring semesters.
-- Managed and contacted several local businesses for securing funds for Welcome Week and homecoming for Fall semesters.<br><br>
+- Managed and contacted several local businesses for securing funds for Welcome Week and homecoming for Fall semesters.<br>
 **Techfest Co-ordinator** <br> Student Activities Club _(May 2014 - May 2016)_ <br>
 - Organized several events for juniors, sophomores for public speaking, Just-a-minute sessions.
 - Responsible for convening a technical fest featuring career development, academic competitions, extra-curricular events on campus for a two-day event.
-- Secured funds for conducting the two-day technical fest.<br><br>
-**National Cadet Corp** <br> (May 2012 - Jan 2015)_ <br><br>
+- Secured funds for conducting the two-day technical fest.<br>
+**National Cadet Corp** <br> (May 2012 - Jan 2015)_ <br>
 
 **Freelance Writing** _(Mar 2020 - Present)_ <br>
 Recent articles in [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/), [Sex for Every Body](https://sexforeverybody.com/author/carolyn/), [FAWCO's Inspiring Women Magazine](https://workwithcarolyn.com/words/fawco-feature), and more.
