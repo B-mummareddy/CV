@@ -42,7 +42,7 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
   - Studied rheological properties of recycled Nylon, PEEK samples via TGA, DMTA analysis.
   - Optically analyzed the PEEK, PEKK, CF-PEEK built via Fused Filament Fabrication (FFF) and recycled Nylon 12 samples built via HP - MJF printing.
  <br>
-  - ** _ 3D printing Systems used: _** ExOne M-flex, Innovent +, Formlabs Form 2, XJet, Hyrel 3D, Ultimaker
+** _ 3D printing Systems used: _** ExOne M-flex, Innovent +, Formlabs Form 2, XJet, Hyrel 3D, Ultimaker
 <br><br>
 ** Business Analyst ** <br> Tech Mahindra _(Oct 2019 - Sep 2020)_ <br>
 
@@ -51,13 +51,13 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 - Assisted in migrating production details from Teradata to MongoDB via Agile methodology. 
 - **_Technologies used:_** Mongo DB, SQL, shell scripting,Teradata.
 <br><br>
-**Undergrad Research Assistant** <br> RGU-IIIT, Nuzvid _(July 2015 - May 2016)_ <br>
+** Undergrad Research Assistant** <br> RGU-IIIT, Nuzvid _(July 2015 - May 2016)_ <br>
 
 - Analyzed machining characteristics of fine grained AZ91 Mg alloy obtained by Friction Stir Processing (FSP).  
 - Studies microstructure, hardness and corrosion features of modified Mg alloy.
 - Compared the machining characteristics of fine grained AZ91 Mg alloy obtained by FSP.  
 <br><br>
-**Summer Intern** <br> Indian Institute of Sciences, Benguluru, India _(May 2015 - July 2015)_ <br>
+** Summer Intern** <br> Indian Institute of Sciences, Benguluru, India _(May 2015 - July 2015)_ <br>
 
 - Studied optical properties of Friction Stir Welded Aluminum sheets  
 - Fabricated a Metal Matrix Composite (MMC), Aluminum (AA2024) reinforced with Titanium dioxide nano particles using Taguchi Method.  
