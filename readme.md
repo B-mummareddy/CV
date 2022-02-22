@@ -1,7 +1,6 @@
 # Bhargavi Mummareddy
 
 Research Associate, Youngstown State University, Youngstown, OH <br>
-
 [Email](mailto:mummareddybhargavi@gmail.com) / [LinkedIn](https://www.linkedin.com/in/bhargavi-mummareddy) / [GitHub](https://github.com/B-mummareddy/) / [Google Scholar](https://scholar.google.com/citations?user=IMidloMAAAAJ&hl=en)
 ##  Education
 **Ph.D., Materials Science and Engineering** <br>
