@@ -84,3 +84,33 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 **Software Skills:** <br>R, Python (NumPy, Pandas, scikit learn, pymatgen), Matlab, Latex, Solidworks, Fusion 360, NetFabb, CATIA, Microsoft Office Suite (Excel)*. <br><br>
 **Characterization Skills:**<br>Metallography, Sample Preparation, Optical Microscopy, SEM, EDS, FIB, BET, XRF, XRD, Profilometry, Mechanical Characterization Testing using ASTM standards, TGA, DMTA, Hardness Testing, Failure Analysis.<br><br>
 **Operating Systems:** Ubuntu(Mint, Ubuntu, Fedora), Windows, MacOS<br><br>
+
+## Awards
+- Graduate Premiere Scholarship, Youngstown State University 	  	  	August 2017- August 2021
+- Finalist in 3MT Presentation, Youngstown State University			Feb 2019
+- Graduate Student Support, ECI Conference, Utah 	 	 	 	June 2020 
+- Honorable Mention, NASA Ames Research Center.   	  	  	  	May 2013  
+- Student Achievement Award, NASA Ames Research Center.  	  	  	May 2013  
+- Merit Scholarship, State Bank of Hyderabad, India.  	  	  	  	July 2013  
+- Merit Scholarship, Government of Andhra Pradesh, India.  	  	  	June 2010  
+
+## Conference Presentations
+- Mechanical Characterization of SLA printed Silica Lattice Structures, MS&T’20 (Virtual).
+- Investigation of 3D printing of Ceramics via Fused Filament Fabrication, MSNO’19, Cleveland, OH.  
+- Mechanical Properties of Al-SiO2 Metal Ceramic Composite 3D printed via Stereo lithography, MS&T’18.
+- Microstructure and Corrosion behavior of Friction Stir Processed AZ91 Magnesium alloy, AICTE, Innovative Trends in Mechanical and Automobile Engineering, Febrauary’16, Hyderabad, India.  
+
+## Publications
+1.	E. Burden et al., “Unit Cell Estimation of Volumetrically-Varying Permittivity in Additively-Manufactured Ceramic Lattices with X-Ray Computed Tomography”, Materials and Design, vol. 210, p. 110032, Nov. 2021, doi: 10.1016/j.matdes.2021.110032.
+2.	B. Mummareddy et al., “Mechanical properties of material jetted zirconia complex geometries with hot isostatic pressing,” Adv. Ind. Manuf. Eng., p. 100052, Jun. 2021, doi: 10.1016/j.aime.2021.100052.
+3.	B. Yelamanchi et al., “Mechanical and fatigue performance of pressurized vessels fabricated with Multi Jet FusionTM for automotive applications,” Addit. Manuf., vol. 44, p. 102048, Aug. 2021, doi: 10.1016/j.addma.2021.102048.
+4.	B.Mummareddy et al., “Mechanical Performance of Lightweight Ceramic Structures via Binder Jetting of Microspheres”, SN Appl Sci., vol.3:402, doi: 10.1007/s42452-021-04404-y
+5.	B. Mummareddy et al., “The fracture properties of metal‐ceramic composites manufactured via stereolithography”,  Int. J. Appl. Ceram. Technol., vol. 17, no. 2, pp. 413–423, Mar. 2020, doi: 10.1111/ijac.13432.
+6.	Y. Oh et al., “Microwave dielectric properties of zirconia fabricated using NanoParticle JettingTM”,  Addit. Manuf., vol. 27, pp. 586–594, May 2019, doi: 10.1016/j.addma.2019.04.005.
+7.	G. V. V. SURYA KIRAN et al., “Machining characteristics of fine grained AZ91 Mg alloy processed by friction stir processing”,  Trans. Nonferrous Met. Soc. China (English Ed., vol. 27, no. 4, 2017, doi: 10.1016/S1003-6326(17)60092-X.
+8.	G. V. V. S. Kiran et al., “Microstructure and Corrosion Behaviour of Friction Stir Processed AZ91 Mg Alloy,” Int. J. Eng. Res., vol. 5, no. SP 2, pp. 449–452, Feb. 2016, Available: http://52.172.152.24/index.php/IJER/article/view/159285.
+In Progress:
+9.	B.Mummareddy et al., “Development of Multi-functional 3D printed Ceramic Structures”. 
+10.	B.Mummareddy et al., “Effect of binder addition on density and mechanical strength of Fused Silica (SiO2) in Binder Jetting Printing (BJP)”, (submitted to 3D Printing and Additive Manufacturing).
+11.	B.Mummareddy et al., “Highly conductive Electronics Circuits for High-Temperature 3D printed ceramic based applications”.
+
