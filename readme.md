@@ -62,7 +62,7 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
     
 ## Leadership Experience
 **Reviewer** <br> Additive Manufacturing Journal <br>
-- Act as a peer reviewer for journal articles.<br><br>
+- Peer reviewer for journal articles.<br><br>
 
 **Judge** <br> Quest _(August 2021)_ <br>
 - Evaluated oral presentations of grad and undergrad students for financial aid.<br><br>
