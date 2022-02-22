@@ -20,55 +20,67 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 <br><br>
 
 **Graduate Research Assistant** Youngstown State University _(Aug 2017 - Aug 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
+  Worked on **_Characterization of Ceramics built via Additive Manufacturing (AM)_**. Studied post-processing and characterization of ceramics, metals, and polymers as a part of research and colloboration projects. Trained several graduate and under-grad students for vaious projects on AM, SEM, EDS techniques along with mechancial characterization techniques.
+- Ceramics
+  - Designed and printed bulk and lattice, gyroid structures from a commercial Silica resin via StereoLithography (SLA) technique.
+  - Designed and built specimen from Fused Silica, Silicon Carbide, Alumina-silicate hollow spheres via Binder Jetting Printing (BJP).
+  - Analyzed Zirconia samples for mechanical and thermal properties built via Material Jetting (NPJ).
+  - Post-processed ceramic samples built via AM to obtain dense samples.
+  - Successfully established post-processing cycles for ceramic samples built under various conditions with unique conclusions for binder-evaporation.
+  - Characterization of ceramic parts built via SLA, BJP, FFF, and Material Jetting (MJ) in terms of mechanical, thermal and optical properties for fracture analysis.
+  - Analyzed self-diffusion process in Si-Si particle using two-sphere model, Fick's diffusion laws.
+  - Studied crystallographic, optical and phase analysis of samples before and after sintering.
+  - Used ANOVA technique for optimizing process parameters for BJP.
+  - Studied and analyzed a physics model on binder dropping in BJP.
+- Metals
+  - Transformed ceramic samples to Interpenetrating Phase Composites (IPC’s) (Al2O3-Al-SiO2) via red-ox reaction.
+  - Prepared cermet composites, Stainless-steel samples for microscopic, SEM evaluation.
+  - Post-processed of 3D printed Aluminum alloy lattices for alteration in ductility and tested for dynamic mechanical properties using Kolsky bars and characterized for fracture properties using optical analysis.
+- Polymers
+  - Studied rheological properties of recycled Nylon, PEEK samples via TGA, DMTA analysis.
+  - Optically analyzed the PEEK, PEKK, CF-PEEK built via Fused Filament Fabrication (FFF) and recycled Nylon 12 samples built via HP - MJF printing.
+ <br>
   - **_3D printing Systems used:_** ExOne M-flex, Innovent +, Formlabs Form 2, XJet, Hyrel 3D, Ultimaker
 <br><br>
 
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
-  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of Meeshkan's documentation and technical blog
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
-    <br><br>
-
-**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
-Professional chauffeur service available in over 300 cities worldwide.
-  - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
-  - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
-  - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
-  <br><br>
-
-**Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
-API-first infrastructure to create, manage and distribute content.
-  - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
-  - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
-  - Assistance with information architecture and UX writing for the web app
-  - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.
-  - **_Selected writing:_**
-    - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
-    - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
-    - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
-    <br><br>
-    
-## 🗞 Journalism Experience
-
-_This section only accounts for work done post-career change._
+**Business Analyst** Tech Mahindra _(Oct 2019 - Sep 2020)_ <br>
+- Selected in campus placements among a pool of 1041 students on a competitive basis.
+- Associate in Sysco Project working on gray market. Worked with SQL, shell scripting to clean, organize and analyze data. Beginner in Tableau.
+- Assisted in migrating production details from Teradata to MongoDB via Agile methodology. 
+- **_Technologies used:_** Mongo DB, SQL, shell scripting,Teradata.
 <br><br>
 
-**Contributing Writer** @ [Future of Sex](https://futureofsex.net/author/carolyn/) _(Dec 2020 - Present)_ <br>
-Online publication that provides insights into the future of human sex and sexuality.
-  - Writing regular features focused on sexual health and identity
-  - Reporting on events that are relevant to the sex tech community
-  - **_Selected articles:_**
+**Undergrad Research Assistant**  RGU-IIIT, Nuzvid _(July 2015 - May 2016)_ <br>
+- Analyzed machining characteristics of fine grained AZ91 Mg alloy obtained by Friction Stir Processing (FSP).  
+- Studies microstructure, hardness and corrosion features of modified Mg alloy.
+- Compared the machining characteristics of fine grained AZ91 Mg alloy obtained by FSP.  
+  <br><br>
+
+**Summer Intern** Indian Institute of Sciences, Benguluru, India _(May 2015 - July 2015)_ <br>
+- Studied optical properties of Friction Stir Welded Aluminum sheets  
+- Fabricated a Metal Matrix Composite (MMC), Aluminum (AA2024) reinforced with Titanium dioxide nano particles using Taguchi Method.  
+- Compared Aluminum samples with and without Titanium dioxide that were welded.
+    <br><br>
+**Project Assistant** RGU-IIIT, Nuzvid, India _(Jan 2013 - Mar 2013)_ <br>
+- Worked on building an outer space settlement shuttle that supports permanent life settlement on outer space. 
+- Awarded with an Honorable Mention and Student Achievement Award at NASA Ames Research Center.  
+
+    <br><br>
+    
+## Leadership Experience
+<br><br>
+**Reviewer ** Additive Manufacturing Journal <br>
+- Act as a peer reviewer for journal articles.
+**Judge ** Quest _(August 2021)_ <br>
+- Evaluated oral presentations of grad and undergrad students for financial aid.
+**Outreach Co-ordinator ** Student Activities Major Events _(July 2018 - Sept 2019)_ <br>
+- Planned and organized events for Homecoming and Welcome week for the fall and spring semesters.
+- Managed and contacted several local businesses for securing funds for Welcome Week and homecoming for Fall semesters.
+**Techfest Co-ordinator ** Student Activities Club _(May 2014 - May 2016)_ <br>
+- Organized several events for juniors, sophomores for public speaking, Just-a-minute sessions.
+- Responsible for convening a technical fest featuring career development, academic competitions, extra-curricular events on campus for a two-day event.
+- Secured funds for conducting the two-day technical fest.
+**_Selected articles:_**
     - [Does Having an IUD Make You a Biohacker or a Cyborg?](https://futureofsex.net/augmentation/does-having-an-iud-make-you-a-biohacker-or-a-cyborg/)
     - [Exploring Queerness By Switching Up My Vibrators](https://futureofsex.net/sex-tech/exploring-queerness-by-switching-up-my-vibrators/)
     - [Future of Fingering: Lessons Learned from the Award-Winning Tentilex Project](https://futureofsex.net/sex-tech/future-of-fingering-lessons-learned-from-the-award-winning-tentilex-project/)
