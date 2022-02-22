@@ -84,6 +84,11 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 **Characterization Skills:**<br>Metallography, Sample Preparation, Optical Microscopy, SEM, EDS, FIB, BET, XRF, XRD, Profilometry, Mechanical Characterization Testing using ASTM standards, TGA, DMTA, Hardness Testing, Failure Analysis.<br><br>
 **Operating Systems:** Ubuntu(Mint, Ubuntu, Fedora), Windows, MacOS<br><br>
 
+## Certifications
+- Lean Six Sigma (Green Belt)- Project Management Institute
+- Analyzing Data with Python -IBM
+- Machine Learning with Python: A Practical Introduction - IBM
+- Materials Data Sciences and Informatics - Georgia Institute of Technology
 ## Awards
 - Graduate Premiere Scholarship, Youngstown State University 	  	  	August 2017- August 2021
 - Finalist in 3MT Presentation, Youngstown State University			Feb 2019
