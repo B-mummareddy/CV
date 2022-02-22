@@ -42,22 +42,22 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
   - Studied rheological properties of recycled Nylon, PEEK samples via TGA, DMTA analysis.
   - Optically analyzed the PEEK, PEKK, CF-PEEK built via Fused Filament Fabrication (FFF) and recycled Nylon 12 samples built via HP - MJF printing.
  <br>
-** _ 3D printing Systems used: _** ExOne M-flex, Innovent +, Formlabs Form 2, XJet, Hyrel 3D, Ultimaker
+**_3D printing Systems used: _** ExOne M-flex, Innovent +, Formlabs Form 2, XJet, Hyrel 3D, Ultimaker
 <br><br>
-** Business Analyst ** <br> Tech Mahindra _(Oct 2019 - Sep 2020)_ <br>
+**Business Analyst** <br> Tech Mahindra _(Oct 2019 - Sep 2020)_ <br>
 
 - Selected in campus placements among a pool of 1041 students on a competitive basis.
 - Associate in Sysco Project working on gray market. Worked with SQL, shell scripting to clean, organize and analyze data. Beginner in Tableau.
 - Assisted in migrating production details from Teradata to MongoDB via Agile methodology. 
-- **_Technologies used:_** Mongo DB, SQL, shell scripting,Teradata.
+**_Technologies used:_** Mongo DB, SQL, shell scripting,Teradata.
 <br><br>
-** Undergrad Research Assistant** <br> RGU-IIIT, Nuzvid _(July 2015 - May 2016)_ <br>
+**Undergrad Research Assistant** <br> RGU-IIIT, Nuzvid _(July 2015 - May 2016)_ <br>
 
 - Analyzed machining characteristics of fine grained AZ91 Mg alloy obtained by Friction Stir Processing (FSP).  
 - Studies microstructure, hardness and corrosion features of modified Mg alloy.
 - Compared the machining characteristics of fine grained AZ91 Mg alloy obtained by FSP.  
 <br><br>
-** Summer Intern** <br> Indian Institute of Sciences, Benguluru, India _(May 2015 - July 2015)_ <br>
+**Summer Intern** <br> Indian Institute of Sciences, Benguluru, India _(May 2015 - July 2015)_ <br>
 
 - Studied optical properties of Friction Stir Welded Aluminum sheets  
 - Fabricated a Metal Matrix Composite (MMC), Aluminum (AA2024) reinforced with Titanium dioxide nano particles using Taguchi Method.  
@@ -71,22 +71,22 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
     
 ## Leadership Experience
 <br><br>
-** Reviewer ** <br> Additive Manufacturing Journal <br>
+**Reviewer** <br> Additive Manufacturing Journal <br>
 - Act as a peer reviewer for journal articles.
 <br><br>
-** Judge ** <br> Quest _(August 2021)_ <br>
+**Judge** <br> Quest _(August 2021)_ <br>
 - Evaluated oral presentations of grad and undergrad students for financial aid.
 <br><br>
-** Outreach Co-ordinator ** <br> Student Activities Major Events _(July 2018 - Sept 2019)_ <br>
+**Outreach Co-ordinator** <br> Student Activities Major Events _(July 2018 - Sept 2019)_ <br>
 - Planned and organized events for Homecoming and Welcome week for the fall and spring semesters.
 - Managed and contacted several local businesses for securing funds for Welcome Week and homecoming for Fall semesters.
 <br><br>
-** Techfest Co-ordinator ** <br> Student Activities Club _(May 2014 - May 2016)_ <br>
+**Techfest Co-ordinator** <br> Student Activities Club _(May 2014 - May 2016)_ <br>
 - Organized several events for juniors, sophomores for public speaking, Just-a-minute sessions.
 - Responsible for convening a technical fest featuring career development, academic competitions, extra-curricular events on campus for a two-day event.
 - Secured funds for conducting the two-day technical fest.
 <br><br>
-** National Cadet Corp ** <br> (May 2012 - Jan 2015)_ <br>
+**National Cadet Corp** <br> (May 2012 - Jan 2015)_ <br>
 <br><br>
 
 **Freelance Writing** _(Mar 2020 - Present)_ <br>
