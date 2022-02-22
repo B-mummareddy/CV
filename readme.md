@@ -5,13 +5,15 @@ Research Associate, Youngstown State University, Youngstown, OH <br>
 [Email](mailto:mummareddybhargavi@gmail.com) / [LinkedIn](https://www.linkedin.com/in/bhargavi-mummareddy) / [GitHub](https://github.com/B-mummareddy/) / [Google Scholar](https://scholar.google.com/citations?user=IMidloMAAAAJ&hl=en)
 ##  Education
 **Ph.D., Materials Science and Engineering** <br>
+Youngstown State University - Youngstown, OH _(Aug 2017 - Aug 2021)_ <br>
 **_Thesis:_** [Additive Manufacturing Processes for High-Performance Ceramics: Manufacturing - Mechanical and Thermal property Relationship](https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=ysu1629131959379597) <br>
 **_Advisor:_** Dr. Pedro Cortes <br>
-Youngstown State University - Youngstown, OH _(Aug 2017 - Aug 2021)_ <br>
+
 **B. Tech.,  Mechanical Engineering** <br>
+RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 **_Capstone Project:_** Microstructure, hardness, corrosion, and machining characteristics of fine grained AZ91 Mg alloy obtained by Friction Stir Processing <br>
 **_Advisor:_** Dr. B. Ratna Sunil<br>
-RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
+
 
 ##  Research Experience
 **[Research Associate](https://ysu.edu/directory/people/bhargavi-mummareddy)**  <br> Youngstown State University _(Oct 2021 - Present)_ <br>
@@ -40,7 +42,7 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
   - Studied rheological properties of recycled Nylon, PEEK samples via TGA, DMTA analysis.
   - Optically analyzed the PEEK, PEKK, CF-PEEK built via Fused Filament Fabrication (FFF) and recycled Nylon 12 samples built via HP - MJF printing.
  <br>
-  - **_3D printing Systems used:_** ExOne M-flex, Innovent +, Formlabs Form 2, XJet, Hyrel 3D, Ultimaker
+  - **_ 3D printing Systems used: _** ExOne M-flex, Innovent +, Formlabs Form 2, XJet, Hyrel 3D, Ultimaker
 <br><br>
 
 **Business Analyst** <br> Tech Mahindra _(Oct 2019 - Sep 2020)_ <br>
