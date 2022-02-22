@@ -101,7 +101,7 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 - Microstructure and Corrosion behavior of Friction Stir Processed AZ91 Magnesium alloy, AICTE, Innovative Trends in Mechanical and Automobile Engineering, Febrauary’16, Hyderabad, India.  
 
 ## Publications
-1.	E. Burden et al., “Unit Cell Estimation of Volumetrically-Varying Permittivity in Additively-Manufactured Ceramic Lattices with X-Ray Computed Tomography”, Materials and Design, vol. 210, p. 110032, Nov. 2021, [doi: 10.1016/j.matdes.2021.110032)].
+1.	E. Burden et al., “Unit Cell Estimation of Volumetrically-Varying Permittivity in Additively-Manufactured Ceramic Lattices with X-Ray Computed Tomography”, Materials and Design, vol. 210, p. 110032, Nov. 2021, [doi: 10.1016/j.matdes.2021.110032](doi: 10.1016/j.matdes.2021.110032).
 2.	B. Mummareddy et al., “Mechanical properties of material jetted zirconia complex geometries with hot isostatic pressing,” Adv. Ind. Manuf. Eng., p. 100052, Jun. 2021, [doi: 10.1016/j.aime.2021.100052].
 3.	B. Yelamanchi et al., “Mechanical and fatigue performance of pressurized vessels fabricated with Multi Jet FusionTM for automotive applications,” Addit. Manuf., vol. 44, p. 102048, Aug. 2021, [doi: 10.1016/j.addma.2021.102048].
 4.	B.Mummareddy et al., “Mechanical Performance of Lightweight Ceramic Structures via Binder Jetting of Microspheres”, SN Appl Sci., vol.3:402, [doi: 10.1007/s42452-021-04404-y]
