@@ -38,7 +38,7 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
   - Post-processed of 3D printed Aluminum alloy lattices for alteration in ductility and tested for dynamic mechanical properties using Kolsky bars and characterized for fracture properties using optical analysis.
 - Polymers
   - Studied rheological properties of recycled Nylon, PEEK samples via TGA, DMTA analysis.
-  - Optically analyzed the PEEK, PEKK, CF-PEEK built via Fused Filament Fabrication (FFF) and recycled Nylon 12 samples built via HP - MJF printing.
+  - Optically analyzed the PEEK, PEKK, CF-PEEK built via Fused Filament Fabrication (FFF) and recycled Nylon 12 samples built via HP - MJF printing.<br>
 **_3D printing Systems used:_** ExOne M-flex, Innovent +, Formlabs Form 2, XJet, Hyrel 3D, Ultimaker<br><br>
 
 **Business Analyst** <br> Tech Mahindra _(Oct 2019 - Sep 2020)_ <br>
