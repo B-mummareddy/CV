@@ -15,7 +15,7 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 ##  Research Experience
 **[Research Associate](https://ysu.edu/directory/people/bhargavi-mummareddy)**  <br> Youngstown State University _(Oct 2021 - Present)_ <br>
 **_Advisor:_** Dr. Pedro Cortes, Dr. Eric MacDonald <br>
-  I serve as a research associate in the project designed to fabricate micro-electronics that suit high temperature applications. The project is deviced such that the micro-electronics are completely manufactured by 3D-printing techniques. My responsbilitites include designing files for fabricating ceramic substrates, investigate the print-ability of metallic inks for conductivity, aerosol jet printing, design .dxf files and g-codes for printing, and post-processing for final applications. I also worked on printing metallic inks on polymers used for wearable electronics. Participate in few colloboration projects for thermal analysis and aerosol jet printing.<br> I also assist and train several graduate and undergraduate students for optical characterization, post-processing, additive manufacturing techniques.<br><br>
+  I serve as a research associate in the project designed to fabricate micro-electronics that suit high temperature applications. The project is deviced such that the micro-electronics are completely manufactured by 3D-printing techniques. My responsbilitites include designing files for fabricating ceramic substrates, investigate the print-ability of metallic inks for conductivity, aerosol jet printing using IDS unit, design .dxf files and g-codes for printing, and post-processing for final applications. I also worked on printing metallic inks on polymers used for wearable electronics. Participate in few colloboration projects for thermal analysis and aerosol jet printing.<br> I also assist and train several graduate and undergraduate students for optical characterization, post-processing, additive manufacturing techniques. Analyze battery materials for 3D printing via TGA.<br><br>
 
 **Graduate Research Assistant** <br> Youngstown State University _(Aug 2017 - Aug 2021)_ <br>
   Worked on **_Characterization of Ceramics built via Additive Manufacturing (AM)_**. Studied post-processing and characterization of ceramics, metals, and polymers as a part of research and colloboration projects. Trained several graduate and under-grad students for vaious projects on AM, SEM, EDS techniques along with mechancial characterization techniques.
@@ -25,15 +25,15 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
   - Analyzed Zirconia samples for mechanical and thermal properties built via Material Jetting (NPJ).
   - Post-processed ceramic samples built via AM to obtain dense samples.
   - Successfully established post-processing cycles for ceramic samples built under various conditions with unique conclusions for binder-evaporation.
-  - Characterization of ceramic parts built via SLA, BJP, FFF, and Material Jetting (MJ) in terms of mechanical, thermal and optical properties for fracture analysis.
-  - Analyzed self-diffusion process in Si-Si particle using two-sphere model, Fick's diffusion laws.
+  - Characterization of ceramic parts built via SLA, BJP, FFD, and Material Jetting (MJ) in terms of mechanical, thermal and optical properties for fracture analysis.
+  - Analyzed self-diffusion process in Si-Si particle using a two-sphere model, Fick's diffusion laws.
   - Studied crystallographic, optical and phase analysis of samples before and after sintering.
   - Used ANOVA technique for optimizing process parameters for BJP.
   - Studied and analyzed a physics model on binder dropping in BJP.
 - Metals
-  - Transformed ceramic samples to Interpenetrating Phase Composites (IPC’s) (Al2O3-Al-SiO2) via red-ox reaction.
+  - Transformed ceramic samples to Interpenetrating Phase Composites (IPC’s) (Al2O3-Al-SiO2) via TCON process.
   - Prepared cermet composites, Stainless-steel samples for microscopic, SEM evaluation.
-  - Post-processed of 3D printed Aluminum alloy lattices for alteration in ductility and tested for dynamic mechanical properties using Kolsky bars and characterized for fracture properties using optical analysis.
+  - Post-processed of 3D printed Aluminum alloy lattices built via DMLS (Powder Bed Fusion technique)for alteration of ductility and tested for dynamic mechanical properties using Kolsky bars and characterized for fracture properties using optical analysis, DIC.
 - Polymers
   - Studied rheological properties of recycled Nylon, PEEK samples via TGA, DMTA analysis.
   - Optically analyzed the PEEK, PEKK, CF-PEEK built via Fused Filament Fabrication (FFF) and recycled Nylon 12 samples built via HP - MJF printing.<br><br>
@@ -41,7 +41,7 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 
 **Business Analyst** <br> Tech Mahindra _(Oct 2019 - Sep 2020)_ <br>
 - Selected in campus placements among a pool of 1041 students on a competitive basis.
-- Associate in Sysco Project working on gray market. Worked with SQL, shell scripting to clean, organize and analyze data. Beginner in Tableau.
+- Associate in Sysco Project working on the gray market. Worked with SQL, shell scripting to clean, organize and analyze data. Beginner in Tableau.
 - Assisted in migrating production details from Teradata to MongoDB via Agile methodology.<br>
 **_Technologies used:_** Mongo DB, SQL, shell scripting,Teradata.<br><br>
 
@@ -52,7 +52,7 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 
 **Summer Intern** <br> Indian Institute of Sciences, Benguluru, India _(May 2015 - July 2015)_ <br>
 - Studied optical properties of Friction Stir Welded Aluminum sheets  
-- Fabricated a Metal Matrix Composite (MMC), Aluminum (AA2024) reinforced with Titanium dioxide nano particles using Taguchi Method.  
+- Fabricated a Metal Matrix Composite (MMC), Aluminum (AA2024) reinforced with Titanium dioxide nanoparticles using Taguchi Method.  
 - Compared Aluminum samples with and without Titanium dioxide that were welded.<br><br>
 
 **Project Assistant** <br> RGU-IIIT, Nuzvid, India _(Jan 2013 - Mar 2013)_ <br>
@@ -78,7 +78,7 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 **National Cadet Corp** <br> _(May 2012 - Jan 2015)_ <br>
 ## Skills and Interests
 
-**Technical Skills:** <br> AM techniques -BJAM, SLA, MJ, FFF,AJP, Post-processing of materials, Design of Experiments (DOE), Risk Assessment, Fundamentals of Polymer Engineering, Lean Six-sigma (Green belt). <br><br>
+**Technical Skills:** <br> AM techniques -BJAM, SLA, MJ, FFF, AJP, Post-processing of materials, Design of Experiments (DOE), Risk Assessment, Fundamentals of Polymer Engineering, Lean Six-sigma (Green belt). <br><br>
 **Software Skills:** <br>R, Python (NumPy, Pandas, scikit learn, pymatgen), Matlab, Latex, Solidworks, Fusion 360, NetFabb, CATIA, Microsoft Office Suite (Excel)*. <br><br>
 **Characterization Skills:**<br>Metallography, Sample Preparation, Optical Microscopy, SEM, EDS, FIB, BET, XRF, XRD, Profilometry, Mechanical Characterization Testing using ASTM standards, TGA, DMTA, Hardness Testing, Failure Analysis.<br><br>
 **Operating Systems:** Ubuntu(Mint, Ubuntu, Fedora), Windows, MacOS<br><br>
