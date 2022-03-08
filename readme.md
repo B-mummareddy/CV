@@ -11,7 +11,6 @@ Youngstown State University - Youngstown, OH _(Aug 2017 - Aug 2021)_ <br>
 **B. Tech.,  Mechanical Engineering** <br>
 RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 **_Capstone Project:_** Microstructure, hardness, corrosion, and machining characteristics of fine grained AZ91 Mg alloy obtained by Friction Stir Processing <br>
-**_Advisor:_** Dr. B. Ratna Sunil<br>
 
 ##  Research Experience
 **[Research Associate](https://ysu.edu/directory/people/bhargavi-mummareddy)**  <br> Youngstown State University _(Oct 2021 - Present)_ <br>
@@ -60,7 +59,7 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 - Worked on building an outer space settlement shuttle that supports permanent life settlement on outer space. 
 - Awarded with an Honorable Mention and Student Achievement Award at NASA Ames Research Center.  <br><br>
     
-## Leadership Experience
+## Leadership and Volunteer Experience
 **Reviewer** <br> Additive Manufacturing Journal <br>
 - Peer reviewer for journal articles.<br><br>
 
@@ -117,6 +116,6 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 **_In Progress:_**
 
 9.	B.Mummareddy et al., “Development of Multi-functional 3D printed Ceramic Structures”. 
-10.	B.Mummareddy et al., “Effect of binder addition on density and mechanical strength of Fused Silica (SiO2) in Binder Jetting Printing (BJP)”, (submitted to 3D Printing and Additive Manufacturing).
+10.	B.Mummareddy et al., “Effect of binder addition on density and mechanical strength of Fused Silica (SiO2) in Binder Jetting Printing (BJP)”, (submitted to the Journal of Materials Science).
 11.	B.Mummareddy et al., “Highly conductive Electronics Circuits for High-Temperature 3D printed ceramic based applications”.
 
