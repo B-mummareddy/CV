@@ -32,26 +32,43 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 
 
 **Graduate Research Assistant** <br> Youngstown State University _(Aug 2017 - Aug 2021)_ <br>
-  Worked on **_Characterization of Ceramics built via Additive Manufacturing (AM)_**. Studied post-processing and characterization of ceramics, metals, and polymers as a part of research and colloboration projects. Trained several graduate and under-grad students for vaious projects on AM, SEM, EDS techniques along with mechancial characterization techniques.
-- Ceramics
-  - Designed and printed bulk and lattice, gyroid structures from a commercial Silica resin via StereoLithography (SLA) technique.
-  - Designed and built specimen from Fused Silica, Silicon Carbide, Alumina-silicate hollow spheres via Binder Jetting Printing (BJP).
-  - Analyzed Zirconia samples for mechanical and thermal properties built via Material Jetting (NPJ).
-  - Post-processed ceramic samples built via AM to obtain dense samples.
-  - Successfully established post-processing cycles for ceramic samples built under various conditions with unique conclusions for binder-evaporation.
-  - Characterization of ceramic parts built via SLA, BJP, FFD, and Material Jetting (MJ) in terms of mechanical, thermal and optical properties for fracture analysis.
-  - Analyzed self-diffusion process in Si-Si particle using a two-sphere model, Fick's diffusion laws.
-  - Studied crystallographic, optical and phase analysis of samples before and after sintering.
-  - Used ANOVA technique for optimizing process parameters for BJP.
-  - Studied and analyzed a physics model on binder dropping in BJP.
-- Metals
-  - Transformed ceramic samples to Interpenetrating Phase Composites (IPC’s) (Al2O3-Al-SiO2) via TCON process.
-  - Prepared cermet composites, Stainless-steel samples for microscopic, SEM evaluation.
-  - Post-processed of 3D printed Aluminum alloy lattices built via DMLS (Powder Bed Fusion technique)for alteration of ductility and tested for dynamic mechanical properties using Kolsky bars and characterized for fracture properties using optical analysis, DIC.
-- Polymers
-  - Studied rheological properties of recycled Nylon, PEEK samples via TGA, DMTA analysis.
-  - Optically analyzed the PEEK, PEKK, CF-PEEK built via Fused Filament Fabrication (FFF) and recycled Nylon 12 samples built via HP - MJF printing.<br><br>
-**_3D printing Systems used:_** ExOne M-flex, Innovent +, Formlabs Form 2, XJet, Hyrel 3D, Ultimaker<br><br>
+- Fabricated Alumina based Inter-penetrating Phase Composite (IPC’s) using SLA.
+  - Worked on manufacturing Fused Silica structural samples and intricate geometries via StereoLithography.
+  - Investigated post-processing of ceramic samples using the Taguchi method for ramp rates.
+  - Transformed and analyzed conversion of SiO2 samples to Al-Al2O3 samples via infiltration sintering.
+  - Characterized the ceramic, metal ceramic composites for mechanical and thermal properties.
+  - Optical investigation of the samples for failure modes.
+- Optimzed printing process parameters of Binder Jetting Printing for Alumino-silicates structure production.
+  - Designed and printed Alumino-silicate structures via Binder Jetting Printing for aerospace, and automobile applications.
+  - Investigated and compared mechanical, thermal properties of the 3D printed samples.
+  - Optical analysis of samples before and after fracture, and necking during sintering.
+- Statisitical analysis of Fused Silica 3D printed structures produced via Binder Jetting Printing.
+  - Investigated process parameters: roller-traverse speed, binder saturation for printing Fused Silica via BJP process using ANOVA technique.
+  - Characterized mechanical properties of ceramic samples printed.
+- Investigation of secondary binder usage in Binder Jetting Printing.
+  - Analyzed surface tension characteristics of various binders that can be imbued in ceramic samples for binder jetting printing applications.
+- Post-processing effects on mechanical properties of Zirconia complex geometries manufactured via Material Jetting.
+  - Designed CAD files for the production of Zirconia samples for antennae applications via Nano-Particle Jetting (NPJ).
+  - Post-processed 3D printed samples at the different ramp and dwell times to understand the effect on mechanical properties.
+  - Analyzed the samples for crystallographic changes and optical analysis of fractured samples.
+  - Performed TEM analysis, EDS of the samples for the crystallographic arrangement using FIB.
+- Multi-modal printing of Silicon Carbide via Binder Jetting Printing.
+  - Investigated silicon carbide printing by varying process parameters and particle size of the particles for enhancing the density while Binder Jet Printing.
+- Analysis of self-diffusion in Fused Silica samples.
+  - Investigated several stages of necking in Fused Silica sample undergoing sintering using two-sphere model.
+  - Optical analysis of ceramic and metal-ceramic composites using SEM and light microscopy at different stages and temperatures.
+  - Worked on calculating diffusion coefficient of Si-Si bonding for strong sintering.
+- Post-processing and Dynamic mechanical testing of Al based alloys produced via SLS.
+  - Conducted T6 heat treatment to relieve internal stresses in AlSi10Mg alloy lattice structures after their production via SLS.
+  - Investigated the dynamic compressive behaviour using Kolsky bars to understand fracture propogation.
+  - Optical investigation and conducted EDS of the samples to understand the alteration in the sample after heat-treatment.
+- Investigation of dynamic-mechanical properties of PEEK samples produced via MJ.
+- Optical analysis of recycled Nylon produced via Fused Filament Depostion (FFD).
+- Production of ceramics based resins for SLA, DLP techinques.
+- Assisted and trained grad students in various projects on ceramic AM and SEM, and EDS analysis.
+- Worked on post-processing and characterization of ceramics, metals for collaborators in various universities and industries.
+
+**_3D printing Systems used:_** ExOne M-flex, Innovent +, Formlabs Form 2, XJet, Hyrel 3D, AdmaFlex, Voltera V1, Ultimaker<br><br>
 
 **Business Analyst** <br> Tech Mahindra _(Oct 2019 - Sep 2020)_ <br>
 - Selected in campus placements among a pool of 1041 students on a competitive basis.
@@ -130,6 +147,6 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 **_In Progress:_**
 
 9.	B.Mummareddy et al., “Development of Multi-functional 3D printed Ceramic Structures”. 
-10.	B.Mummareddy et al., “Effect of binder addition on density and mechanical strength of Fused Silica (SiO2) in Binder Jetting Printing (BJP)”, (submitted to the Journal of Materials Science).
+10. A. Martinez et al., " Additive manufacturing of LiNi1/3Mn1/3Co1/3O2 battery electrode material via vat photopolymerization precursor approach" (submitted to Advanced Energy Materials)
 11.	B.Mummareddy et al., “Highly conductive Electronics Circuits for High-Temperature 3D printed ceramic based applications”.
 
