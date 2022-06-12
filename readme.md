@@ -15,20 +15,20 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 ##  Research Experience
 **[Research Associate](https://ysu.edu/directory/people/bhargavi-mummareddy)**  <br> Youngstown State University _(Oct 2021 - Present)_ <br>
 **_Advisor:_** Dr. Pedro Cortes, Dr. Eric MacDonald <br>
-•	Fabrication and analysis of micro-electronics for High Temperature Applications via 3D printing.
-o	Design and fabricate microelectronics using direct ink writing, extrusion printing and aerosol jet printing technologies.
-o	Manufactured of substrates using ceramic based 3D printing techniques. 
-o	Investigate using various metal oxide inks for power electronics and micro-electronic applications.
-•	Additive Manufacturing of novel batteries
-o	Investigated and fabricated Li- based materials for cathodes via 3D printing (DLP and SLA).
-o	Analyze Ti- based materials for anodes via 3D printing using analytical techniques like SEM, XRD and TGA.
-o	Utilized TGA for understanding several cathode materials produced via SLA. 
-•	Bi-Material Fabrication and analysis via 3D printing.
-o	Investigated 3D printed techniques for the production of multi-material-based substrates for thermal management applications using DLP, SLA, MJ processes.
-o	Analyze various inks and resins for utilizing them for bi-material applications.
-•	Development of 3D printed ceramic structures for temperature sensing applications.
-o	Worked on manufacturing a novel thermocouple via 3D printing.
-o	 Investigated the usage and working of 3D printed sensor from -20C to 750C.
+- Fabrication and analysis of micro-electronics for High Temperature Applications via 3D printing.
+  - Design and fabricate microelectronics using direct ink writing, extrusion printing and aerosol jet printing technologies.
+  - Manufactured of substrates using ceramic based 3D printing techniques. 
+  - Investigate using various metal oxide inks for power electronics and micro-electronic applications.
+-	Additive Manufacturing of novel batteries
+  - Investigated and fabricated Li- based materials for cathodes via 3D printing (DLP and SLA).
+  - Analyze Ti- based materials for anodes via 3D printing using analytical techniques like SEM, XRD and TGA.
+  - Utilized TGA for understanding several cathode materials produced via SLA. 
+- Bi-Material Fabrication and analysis via 3D printing.
+  - Investigated 3D printed techniques for the production of multi-material-based substrates for thermal management applications using DLP, SLA, MJ processes.
+  - Analyze various inks and resins for utilizing them for bi-material applications.
+- Development of 3D printed ceramic structures for temperature sensing applications.
+  - Worked on manufacturing a novel thermocouple via 3D printing.
+  - Investigated the usage and working of 3D printed sensor from -20C to 750C.
 
 
 **Graduate Research Assistant** <br> Youngstown State University _(Aug 2017 - Aug 2021)_ <br>
