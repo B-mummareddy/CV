@@ -19,7 +19,7 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
   - Design and fabricate microelectronics using direct ink writing, extrusion printing and aerosol jet printing technologies.
   - Manufactured of substrates using ceramic based 3D printing techniques. 
   - Investigate using various metal oxide inks for power electronics and micro-electronic applications.
--	Additive Manufacturing of novel batteries
+-	Additive Manufacturing of novel batteries.
   - Investigated and fabricated Li- based materials for cathodes via 3D printing (DLP and SLA).
   - Analyze Ti- based materials for anodes via 3D printing using analytical techniques like SEM, XRD and TGA.
   - Utilized TGA for understanding several cathode materials produced via SLA. 
