@@ -91,8 +91,14 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 - Awarded with an Honorable Mention and Student Achievement Award at NASA Ames Research Center.  <br><br>
     
 ## Leadership and Volunteer Experience
-**Reviewer** <br> Additive Manufacturing Journal <br>
+**Reviewer**
 - Peer reviewer for journal articles.<br><br>
+
+**Judge** <br> Quest _(May 2022)_ <br>
+- Reviewed science projects of high school students for State Science Day as a part of Ohio Stem Wizard.<br><br>
+
+**Judge** <br> SWE _(June 2022)_ <br>
+- Evaluated high school girl profiles entering freshmen year for SWE scholarship awarded for the year 2022 based the USA. <br><br>
 
 **Judge** <br> Quest _(August 2021)_ <br>
 - Evaluated oral presentations of grad and undergrad students for financial aid.<br><br>
@@ -114,6 +120,11 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 **Characterization Skills:**<br>Metallography, Sample Preparation, Optical Microscopy, SEM, EDS, FIB, BET, XRF, XRD, Profilometry, Mechanical Characterization Testing using ASTM standards, TGA, DMTA, Hardness Testing, Failure Analysis.<br><br>
 **Operating Systems:** Ubuntu(Mint, Ubuntu, Fedora), Windows, MacOS<br><br>
 
+## Technical Societies membership: 
+- Society of Women Engineers
+- Women in 3D printing
+- ACerS
+- TMS
 ## Certifications
 - Lean Six Sigma (Green Belt)- Project Management Institute
 - Analyzing Data with Python -IBM
