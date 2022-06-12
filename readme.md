@@ -109,7 +109,7 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 **National Cadet Corp** <br> _(May 2012 - Jan 2015)_ <br>
 ## Skills and Interests
 
-**Technical Skills:** <br> AM techniques -BJAM, SLA, MJ, FFF, AJP, Post-processing of materials, Design of Experiments (DOE), Risk Assessment, Fundamentals of Polymer Engineering, Lean Six-sigma (Green belt). <br><br>
+**Technical Skills:** <br> AM techniques -BJAM, SLA, MJ, FFF, AJP, DLP, DIW, Post-processing of materials, Design of Experiments (DOE), Risk Assessment, Fundamentals of Polymer Engineering, Lean Six-sigma (Green belt). <br><br>
 **Software Skills:** <br>R, Python (NumPy, Pandas, scikit learn, pymatgen), Matlab, Latex, Solidworks, Fusion 360, NetFabb, CATIA, Microsoft Office Suite (Excel)*. <br><br>
 **Characterization Skills:**<br>Metallography, Sample Preparation, Optical Microscopy, SEM, EDS, FIB, BET, XRF, XRD, Profilometry, Mechanical Characterization Testing using ASTM standards, TGA, DMTA, Hardness Testing, Failure Analysis.<br><br>
 **Operating Systems:** Ubuntu(Mint, Ubuntu, Fedora), Windows, MacOS<br><br>
