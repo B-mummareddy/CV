@@ -120,7 +120,7 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 **Characterization Skills:**<br>Metallography, Sample Preparation, Optical Microscopy, SEM, EDS, FIB, BET, XRF, XRD, Profilometry, Mechanical Characterization Testing using ASTM standards, TGA, DMTA, Hardness Testing, Failure Analysis.<br><br>
 **Operating Systems:** Ubuntu(Mint, Ubuntu, Fedora), Windows, MacOS<br><br>
 
-## Technical Societies membership: 
+## Technical Society membership: 
 - Society of Women Engineers
 - Women in 3D printing
 - ACerS
