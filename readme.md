@@ -15,7 +15,7 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 ##  Research Experience
 **[Research Associate](https://ysu.edu/directory/people/bhargavi-mummareddy)**  <br> Youngstown State University _(Oct 2021 - Present)_ <br>
 **_Advisor:_** Dr. Pedro Cortes, Dr. Eric MacDonald <br>
- •	Fabrication and analysis of micro-electronics for High Temperature Applications via 3D printing.
+•	Fabrication and analysis of micro-electronics for High Temperature Applications via 3D printing.
 o	Design and fabricate microelectronics using direct ink writing, extrusion printing and aerosol jet printing technologies.
 o	Manufactured of substrates using ceramic based 3D printing techniques. 
 o	Investigate using various metal oxide inks for power electronics and micro-electronic applications.
