@@ -98,7 +98,7 @@ RGU-IIIT - Nuzvid, India _(May 2012- May 2016)_ <br>
 - Reviewed science projects of high school students for State Science Day as a part of Ohio Stem Wizard.<br><br>
 
 **Judge** <br> SWE _(June 2022)_ <br>
-- Evaluated high school girl profiles entering freshmen year for SWE scholarship awarded for the year 2022 based the USA. <br><br>
+- Evaluated high school girl profiles entering freshmen year for SWE scholarship awarded for the year 2022 based in the USA. <br><br>
 
 **Judge** <br> Quest _(August 2021)_ <br>
 - Evaluated oral presentations of grad and undergrad students for financial aid.<br><br>
